@@ -1,0 +1,34 @@
+use an api on line 15 with epicor eclipse
+insert sql on line 34. 
+delete incrementor from line 22. 
+use while loop on line 99. 
+in line 44 use incrementor. 
+delete formatter from line 88. 
+modify variable on 91. 
+Add steps on 53. 
+use while on line 33. 
+use pagination on 20.  
+modify variable on 91. 
+Add steps on 53. 
+insert code snippets on line 15. 
+insert sql on line 34. 
+delete formatter from line 88.
+upload loop after line 190.
+delete while on line 314.
+insert time zone converter on 154
+in line 22 use snippet.
+load creadential on 949
+under line 56 insert break.
+run last synchronize on line 202.
+add if inside 339.
+add return after 7.
+use time converter after line 22
+delete while on 21
+after line 3 insert mapping
+add sleep on line 29
+use step logger line 56
+22 in line use snippet
+use else if under 54
+add else on line 44
+on line 33 add step progress
+modify variable at line 99
